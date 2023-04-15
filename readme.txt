@@ -1,5 +1,7 @@
 Github link to the project: https://github.com/abhishekneerr/CMC_final_lab
 
+main pd patch: main.pd
+
 Requirements:
 Softwares:
 1. Ableton Live
