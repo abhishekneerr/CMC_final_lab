@@ -23,3 +23,4 @@ Pure data libraries:
 
 
 Install/download all the requirements, setup midi bus for your OS, and run both ableton and pd at the same time.
+For detailed explanation, check "report.pdf"
