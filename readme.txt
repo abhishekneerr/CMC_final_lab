@@ -1,4 +1,5 @@
 Github link to the project: https://github.com/abhishekneerr/CMC_final_lab
+Video: https://youtu.be/l0DSrargaQY
 
 main pd patch: main.pd
 
